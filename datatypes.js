@@ -11,3 +11,4 @@ console.log(typeof(obj));
 console.log(typeof(val));
 console.log(typeof(20.8)); // the float or double value is treated as number in js
 console.log(typeof(bool));
+console.log(typeof('a'));

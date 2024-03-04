@@ -51,5 +51,9 @@ null conversion to number will give 0
 undefined consersion to number will nan
 
 */
+let st_i = "";
+let d =Number(st_i);
+let e =Boolean(st_i);
+console.table([st_i,d,e]);
 
 
